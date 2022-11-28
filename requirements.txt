@@ -1,0 +1,5 @@
+# Flask==2.2.2
+python-dotenv==0.21.0
+PyYAML==6.0
+slack-bolt==1.14.3
+slack-sdk==3.18.3

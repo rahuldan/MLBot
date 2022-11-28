@@ -1,0 +1,10 @@
+.env
+*.ipynb
+.vscode
+temp.yaml
+__pycache__
+build/
+dist/
+tests/
+*.spec
+.ipynb_checkpoints
